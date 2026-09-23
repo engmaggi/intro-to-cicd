@@ -4,3 +4,4 @@ function sayHi(name) {
 
 module.exports = sayHi
 //adding a comment
+//testing the ruleset
